@@ -1,4 +1,9 @@
 # MultiGPU p-tune training with NeMo 
+  
+## Testing environemtnt:
+ - Nemo container v22.11 with nemo r1.14
+ - SLURM managed HPG-AI.
+ - pretrained nemo models: 
 
 ## structure:
  - nemo_model/ : pretrained .nemo model

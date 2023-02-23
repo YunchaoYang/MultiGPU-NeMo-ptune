@@ -1,10 +1,11 @@
 nemo_experiments/*
-!nemo_experiments/.gitkeep
+!nemo_experiments/
 tmp2/
 tmp/
 log/
 !log/.gitkeep
 nemo_model/*.nemo
+!nemo_model/PUT_NEMO_MODEL_HERE
 data/*/
-!data/.gitkeep
+!data/PUT_DATA_HERE
 *~
