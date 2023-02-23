@@ -1,0 +1,7 @@
+nemo_experiments/
+tmp2/
+tmp/
+log/
+nemo_model/*.nemo
+data/
+*~
