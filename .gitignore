@@ -1,7 +1,9 @@
-nemo_experiments/
+nemo_experiments/*
+!nemo_experiments/.gitkeep
 tmp2/
 tmp/
 log/
+!log/.gitkeep
 nemo_model/*.nemo
-data/
+data/*/
 *~
