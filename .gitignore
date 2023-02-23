@@ -6,4 +6,5 @@ log/
 !log/.gitkeep
 nemo_model/*.nemo
 data/*/
+!data/.gitkeep
 *~
